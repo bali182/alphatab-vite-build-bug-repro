@@ -7,3 +7,5 @@ new AlphaTabApi(document.getElementById("at-root")!, {
     engine: "svg",
   },
 });
+
+console.log("I'm imported!");
