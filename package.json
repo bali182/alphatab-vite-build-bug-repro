@@ -1,0 +1,22 @@
+{
+  "name": "alphatab-vite-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@coderline/alphatab": "1.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.2.5",
+    "@types/react-dom": "18.2.4",
+    "@vitejs/plugin-react": "4.0.0",
+    "typescript": "5.4.5",
+    "vite": "4.5.3"
+  }
+}
